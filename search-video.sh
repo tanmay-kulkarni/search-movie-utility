@@ -39,7 +39,7 @@ cat /home/tanmay/search.txt | sed ''$choice'q;d' | sed 's/ /\\ /g' | sed 's/(/\\
 
 #echo -e "\nUsage: vlc 'copied_string'\n"
 
-echo -e "\n"
+ echo -e "\n"
 
 exit 0
 
