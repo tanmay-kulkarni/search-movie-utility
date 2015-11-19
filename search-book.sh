@@ -1,6 +1,6 @@
 #!/bin/bash
 
-printf "\n\tWhich File you wanna play?: "
+printf "\n\tWhich Book you wanna Open?: "
 read file_name
 echo -e "\tYou entered file : $file_name \n\nMy search shows following possibilities:\n\nNo.| \t Name"
 
